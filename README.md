@@ -27,7 +27,7 @@ This project focuses on providing an intuitive user experience for organizing an
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/imShubh03/DM-Prioritizer.git
     cd dm-prioritizer
     ```
 
